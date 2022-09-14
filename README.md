@@ -1,5 +1,5 @@
 # Welcome to Deepdeets
 
-## contact with [email](deepdeets@gmail.com)
+## contact with [email](mailto:deepdeets@gmail.com)
 
 #### Best Regards.
